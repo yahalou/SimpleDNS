@@ -1,0 +1,13 @@
+﻿  源.cpp
+C:\Users\26033\Desktop\dnsLearn\SimpleDNS\源.cpp(125,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\26033\Desktop\dnsLearn\SimpleDNS\源.cpp(130,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\26033\Desktop\dnsLearn\SimpleDNS\源.cpp(157,24): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“char **”
+C:\Users\26033\Desktop\dnsLearn\SimpleDNS\源.cpp(172,20): warning C4101: “answer”: 未引用的局部变量
+C:\Users\26033\Desktop\dnsLearn\SimpleDNS\源.cpp(207,12): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“unsigned char *”
+C:\Users\26033\Desktop\dnsLearn\SimpleDNS\源.cpp(269,12): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“unsigned char *”
+C:\Users\26033\Desktop\dnsLearn\SimpleDNS\源.cpp(271,12): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“unsigned char *”
+C:\Users\26033\Desktop\dnsLearn\SimpleDNS\源.cpp(274,12): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“unsigned char *”
+C:\Users\26033\Desktop\dnsLearn\SimpleDNS\源.cpp(278,12): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“unsigned char *”
+C:\Users\26033\Desktop\dnsLearn\SimpleDNS\源.cpp(353,50): warning C4244: “参数”: 从“DWORD”转换到“u_short”，可能丢失数据
+C:\Users\26033\Desktop\dnsLearn\SimpleDNS\源.cpp(167): warning C4715: “searchInCache”: 不是所有的控件路径都返回值
+  SimpleDNS.vcxproj -> C:\Users\26033\Desktop\dnsLearn\SimpleDNS\Debug\SimpleDNS.exe

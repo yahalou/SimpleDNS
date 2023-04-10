@@ -1,0 +1,11 @@
+﻿  源.cpp
+C:\Users\26033\Desktop\dnsLearn\SimpleDNS\源.cpp(126,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\26033\Desktop\dnsLearn\SimpleDNS\源.cpp(131,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\26033\Desktop\dnsLearn\SimpleDNS\源.cpp(178,20): warning C4101: “answer”: 未引用的局部变量
+C:\Users\26033\Desktop\dnsLearn\SimpleDNS\源.cpp(351,50): warning C4244: “参数”: 从“DWORD”转换到“u_short”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\26033\Desktop\dnsLearn\SimpleDNS\源.cpp(173): warning C4715: “searchInCache”: 不是所有的控件路径都返回值
+  All 13 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  SimpleDNS.vcxproj -> C:\Users\26033\Desktop\dnsLearn\SimpleDNS\Release\SimpleDNS.exe
